@@ -8,4 +8,4 @@ To list commands:
 npm help
 
 To list specific command usage:
-npm <command> --help
+npm {command} --help
